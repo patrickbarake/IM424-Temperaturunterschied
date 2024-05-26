@@ -23,9 +23,10 @@ In diesem OnePager werden die Temperaturunterschiede zwischen Chur und Bern, von
 
 **Benutzte Ressourcen**
 
-CodePilot: Zur Hilfe bei der Code-Entwicklung und Fehlerbehebungen.
-Internet: Allgemeine Recherchen und Problemlösungen oder Tuto’s.
-Figma: Für das Design der Benutzeroberfläche.
-ChatGPT: Unterstützung bei technischen Fragen und Problemen.
-crontool-frontend.vercel: um den Load Prozess automatisch durchzuführen. 
-Moodle Videos: Um die einzelnen Schritte nachzuvollziehen und umzusetzen. 
+- CodePilot: Zur Hilfe bei der Code-Entwicklung und Fehlerbehebungen.
+- Internet: Allgemeine Recherchen und Problemlösungen oder Tuto’s.
+- Figma: Für das Design der Benutzeroberfläche.
+- ChatGPT: Unterstützung bei technischen Fragen und Problemen.
+- crontool-frontend.vercel: um den Load Prozess automatisch durchzuführen. 
+- Moodle Videos: Um die einzelnen Schritte nachzuvollziehen und umzusetzen.
+- Visual Studio Code: um das Projekt zu schreiben.
